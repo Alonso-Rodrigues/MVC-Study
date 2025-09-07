@@ -1,10 +1,9 @@
 <?php
 
-/*
-Route Class
-Creates URLs, loads controllers, methods and parameters
-URL format - /controlador/method/parameters
-*/
+/**
+ * Route Class Creates URLs, loads controllers, methods and parameters URL format - /controlador/method/parameters
+ * @author Alonso
+ */
 
 class Route
 {   // Class attributes
